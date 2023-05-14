@@ -1,0 +1,9 @@
+D:\qt sql\gestion restaurant\gestion restaurant\Debug\gestion restaurant.vcxproj.AssemblyReference.cache
+D:\qt sql\gestion restaurant\gestion restaurant\Debug\gestion restaurant.vcxproj.SuggestedBindingRedirects.cache
+D:\qt sql\gestion restaurant\gestion restaurant\Debug\gestionrestaurant.about.resources
+D:\qt sql\gestion restaurant\gestion restaurant\Debug\gestionrestaurant.acceuil.resources
+D:\qt sql\gestion restaurant\gestion restaurant\Debug\gestionrestaurant.facture.resources
+D:\qt sql\gestion restaurant\gestion restaurant\Debug\gestionrestaurant.menu.resources
+D:\qt sql\gestion restaurant\gestion restaurant\Debug\gestionrestaurant.panier.resources
+D:\qt sql\gestion restaurant\gestion restaurant\Debug\gestion restaurant.vcxproj.GenerateResource.cache
+D:\qt sql\gestion restaurant\gestion restaurant\Debug\gestion restaurant.exe

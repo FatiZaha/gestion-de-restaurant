@@ -1,0 +1,26 @@
+﻿  acceuil.cpp
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\panier.h(318,21): warning C4101: 'e' : variable locale non référencée
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\menu.h(522,20): warning C4101: 'e' : variable locale non référencée
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\menu.h(545,20): warning C4101: 'e' : variable locale non référencée
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\menu.h(568,20): warning C4101: 'e' : variable locale non référencée
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\menu.h(591,20): warning C4101: 'e' : variable locale non référencée
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\menu.h(614,20): warning C4101: 'e' : variable locale non référencée
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\menu.h(637,20): warning C4101: 'e' : variable locale non référencée
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\menu.h(660,20): warning C4101: 'e' : variable locale non référencée
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\menu.h(683,20): warning C4101: 'e' : variable locale non référencée
+  facture.cpp
+  menu.cpp
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\panier.h(318,21): warning C4101: 'e' : variable locale non référencée
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\menu.h(522,20): warning C4101: 'e' : variable locale non référencée
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\menu.h(545,20): warning C4101: 'e' : variable locale non référencée
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\menu.h(568,20): warning C4101: 'e' : variable locale non référencée
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\menu.h(591,20): warning C4101: 'e' : variable locale non référencée
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\menu.h(614,20): warning C4101: 'e' : variable locale non référencée
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\menu.h(637,20): warning C4101: 'e' : variable locale non référencée
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\menu.h(660,20): warning C4101: 'e' : variable locale non référencée
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\menu.h(683,20): warning C4101: 'e' : variable locale non référencée
+  panier.cpp
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\panier.h(318,21): warning C4101: 'e' : variable locale non référencée
+  Génération de code en cours...
+  about.obj : module MSIL détecté ; liens incrémentiels désactivés pour MSIL ; édition de liens complète en cours
+  gestion restaurant.vcxproj -> C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\x64\Release\gestion restaurant.exe

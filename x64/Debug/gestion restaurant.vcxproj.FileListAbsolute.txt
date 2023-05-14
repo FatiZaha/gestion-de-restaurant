@@ -1,0 +1,6 @@
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\x64\Debug\gestion restaurant.vcxproj.AssemblyReference.cache
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\x64\Debug\gestion restaurant.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\x64\Debug\gestionrestaurant.acceuil.resources
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\x64\Debug\gestion restaurant.vcxproj.GenerateResource.cache
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\x64\Debug\gestionrestaurant.menu.resources
+C:\Users\ZAHA Fatima Zahra\Documents\qt sql\gestion restaurant\gestion restaurant\x64\Debug\gestionrestaurant.about.resources
